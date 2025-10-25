@@ -1,0 +1,78 @@
+/* Tab fullscreen modu aktif olduğunda */
+body.yt-tab-fullscreen {
+  overflow: hidden !important;
+  background: #000 !important;
+}
+
+/* Ana sayfa yapısını gizle, sadece player kalsın */
+body.yt-tab-fullscreen ytd-app {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100vw !important;
+  height: 100vh !important;
+  z-index: 9999999 !important;
+}
+
+/* Üst menü ve yan tarafları gizle */
+body.yt-tab-fullscreen #masthead,
+body.yt-tab-fullscreen #related,
+body.yt-tab-fullscreen #secondary,
+body.yt-tab-fullscreen #secondary-inner,
+body.yt-tab-fullscreen ytd-watch-flexy #columns #secondary,
+body.yt-tab-fullscreen #below,
+body.yt-tab-fullscreen ytd-watch-metadata,
+body.yt-tab-fullscreen #comments,
+body.yt-tab-fullscreen #meta,
+body.yt-tab-fullscreen #info,
+body.yt-tab-fullscreen #info-contents {
+  display: none !important;
+}
+
+/* Player container'ı tam ekran yap */
+body.yt-tab-fullscreen ytd-watch-flexy,
+body.yt-tab-fullscreen #columns,
+body.yt-tab-fullscreen #primary,
+body.yt-tab-fullscreen #primary-inner {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100vw !important;
+  height: 100vh !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Video player'ı tam ekran yap */
+body.yt-tab-fullscreen #player-theater-container,
+body.yt-tab-fullscreen #player-container,
+body.yt-tab-fullscreen #player,
+body.yt-tab-fullscreen #movie_player {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100vw !important;
+  height: 100vh !important;
+  max-width: none !important;
+  max-height: none !important;
+}
+
+/* Video elementi tam ekran */
+body.yt-tab-fullscreen #movie_player .html5-video-container,
+body.yt-tab-fullscreen #movie_player video {
+  width: 100% !important;
+  height: 100% !important;
+  max-width: none !important;
+  max-height: none !important;
+  object-fit: contain !important;
+}
+
+/* Player kontrollerini göster */
+body.yt-tab-fullscreen .ytp-chrome-bottom,
+body.yt-tab-fullscreen .ytp-chrome-top,
+body.yt-tab-fullscreen .ytp-gradient-bottom,
+body.yt-tab-fullscreen .ytp-gradient-top {
+  display: block !important;
+}
+
