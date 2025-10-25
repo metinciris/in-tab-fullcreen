@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![YouTube Tab Fullscreen Banner](banner.png)
+![YouTube Tab Fullscreen Banner](/archive/banner.png)
 
 YouTube videolarını tab içinde tam ekran yapar. Basit, hızlı ve kullanışlı!
 
@@ -32,7 +32,7 @@ YouTube videolarını tab içinde tam ekran yapar. Basit, hızlı ve kullanışl
    ```bash
    git clone https://github.com/metinciris/in-tab-fullscreen.git
    ```
-   veya [ZIP olarak indirin](https://github.com/metinciris/in-tab-fullscreen/archive/main.zip)
+   veya [ZIP olarak indirin](/archive/main.zip)
 
 2. Chrome'da `chrome://extensions` adresine gidin
 
