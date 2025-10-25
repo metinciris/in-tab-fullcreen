@@ -33,16 +33,18 @@ YouTube videolarını tab içinde tam ekran yapar. Basit, hızlı ve kullanışl
    git clone https://github.com/metinciris/in-tab-fullscreen.git
    ```
    veya [ZIP olarak indirin](/archive/main.zip)
+   Klasör olarak açın eklenti nin olmasını istediğiniz yere kaydedin (örneğin: belgeler/eklentiler/youtube-tab-fullscreen)
+   Zip olarak değil içi açılmış ve klasör içinde olmalı.
 
-2. Chrome'da `chrome://extensions` adresine gidin. Comet için de uygundur
+3. Chrome'da `chrome://extensions` adresine gidin. Comet için de uygundur
 
-3. Sağ üstten **"Geliştirici modu"** açın
+4. Sağ üstten **"Geliştirici modu"** açın
 
-4. **"Paketlenmemiş uzantı yükle"** butonuna tıklayın
+5. **"Paketlenmemiş uzantı yükle"** butonuna tıklayın
 
-5. İndirdiğiniz klasörü seçin
+6. İndirdiğiniz klasörü seçin (klasörün içini değil, youtube-tab-fullscreen klasörünü)
 
-6. Hazır! 🎉
+7. Hazır! 🎉
 
 ## 💡 Kullanım
 
