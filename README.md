@@ -23,7 +23,7 @@ YouTube videolarını tab içinde tam ekran yapar. Basit, hızlı ve kullanışl
 
 ## 🚀 Kurulum
 
-### Chrome Web Store'dan (Yakında)
+### Chrome Web Store'dan (Belki Yakında)
 *Henüz yayınlanmadı*
 
 ### Manuel Kurulum
@@ -34,7 +34,7 @@ YouTube videolarını tab içinde tam ekran yapar. Basit, hızlı ve kullanışl
    ```
    veya [ZIP olarak indirin](/archive/main.zip)
 
-2. Chrome'da `chrome://extensions` adresine gidin
+2. Chrome'da `chrome://extensions` adresine gidin. Comet için de uygundur
 
 3. Sağ üstten **"Geliştirici modu"** açın
 
@@ -47,7 +47,7 @@ YouTube videolarını tab içinde tam ekran yapar. Basit, hızlı ve kullanışl
 ## 💡 Kullanım
 
 1. YouTube'da bir video açın
-2. Chrome araç çubuğundaki eklenti ikonuna tıklayın
+2. Chrome / Comet araç çubuğundaki eklenti ikonuna tıklayın
    - İkon 🔴 **kırmızı** → 🟢 **yeşil** olur
    - Video tab içinde tam ekran olur
 3. Tekrar tıklayın
