@@ -120,15 +120,7 @@ Katkılar hoş karşılanır!
 
 ## 📝 Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
-## 👤 Geliştirici
-
-**Metin Ciris**
-- GitHub: [@metinciris](https://github.com/metinciris)
-- Repository: [in-tab-fullscreen](https://github.com/metinciris/in-tab-fullscreen)
-
-## ⭐ Destek
+Bu proje MIT lisansı altında lisanslanmıştır. 
 
 Eğer bu proje işinize yaradıysa, yıldız vermeyi unutmayın! ⭐
 
